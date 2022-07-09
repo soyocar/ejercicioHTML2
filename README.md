@@ -1,2 +1,2 @@
-# ejercicioHTML2
+# ejercicioHTML
 Created with CodeSandbox

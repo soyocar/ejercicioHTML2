@@ -1,0 +1,17 @@
+.titulo_estructura {
+  color: blueviolet;
+}
+.titulo_css {
+  color: brown;
+}
+p {
+  background-color: cadetblue;
+}
+.parrafo_color {
+  background-color: coral;
+}
+body {
+  background-image: url(/imagenes/html.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
